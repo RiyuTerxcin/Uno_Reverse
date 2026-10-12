@@ -2,7 +2,13 @@
 
 # Uno_Reverse
 
+**A minimal reverse shell implementation in Python — built as a security research tool to understand how reverse shells work under the hood.**
 
+[![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Status](https://img.shields.io/badge/Status-Early%20Stage-orange?style=for-the-badge)]()
+[![Purpose](https://img.shields.io/badge/Purpose-Security%20Research-red?style=for-the-badge)]()
+
+</div>
 
 ---
 
