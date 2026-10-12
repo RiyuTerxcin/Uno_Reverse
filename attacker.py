@@ -3,7 +3,7 @@ import socket
 SERVER_HOST = "0.0.0.0"
 SERVER_PORT = 5003
 
-# send 1024 (1kb) a time as buffer size
+# send 1024 (1kb) a time as buffer size //test
 
 BUFFER_SIZE = 1024
 
